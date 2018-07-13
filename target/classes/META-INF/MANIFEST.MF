@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Srinivas
+Build-Jdk: 10.0.1
+Implementation-Title: SpringScheduling
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: SpringScheduling
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringScheduling
+Created-By: Maven Integration for Eclipse
+
